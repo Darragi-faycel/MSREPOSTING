@@ -17,6 +17,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MSREPOSTING" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +69,7 @@
       <workItem from="1738074666326" duration="37000" />
       <workItem from="1765538194477" duration="256000" />
       <workItem from="1775040238098" duration="1329000" />
-      <workItem from="1777889008343" duration="3543000" />
+      <workItem from="1777889008343" duration="6644000" />
     </task>
     <servers />
   </component>
